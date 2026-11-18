@@ -35,25 +35,25 @@ const ROLES = [
       "Power BI · Excel · SQL",
     ],
   },
-  {
-period: "Nov 2025 — Present",
-    year: "2025–Present",
-    role: "Graphic Designer",
-    org: "Param Skills Training India Pvt. Ltd.",
-    env: "Visual design & communication",
-    points: [
-      "Graphic design",
-      "Corporate communication",
-      "Digital creatives",
-      "Presentation design",
-      "Branding",
-      "Marketing visuals",
-      "Visual storytelling",
-      "AI-assisted creative workflows",
-      "Web/digital visual work",
-      "Information visualization",
-],
-  },
+ {
+  period: "Nov 2025 — Present",
+  year: "2025–Present",
+  role: "Data Analyst",
+  org: "Param Skills Training India Pvt. Ltd.",
+  env: "Data analytics & business intelligence",
+  points: [
+    "Data analysis",
+    "Data visualization",
+    "Business intelligence",
+    "MIS reporting",
+    "Dashboard development",
+    "Data cleaning & preprocessing",
+    "Excel reporting & automation",
+    "Power BI",
+    "Python-based data analysis",
+    "Information visualization"
+  ],
+},
 ];
 
 export function Experience() {
